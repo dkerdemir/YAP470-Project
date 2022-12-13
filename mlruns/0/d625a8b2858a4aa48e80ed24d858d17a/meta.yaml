@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/d625a8b2858a4aa48e80ed24d858d17a/artifacts
+end_time: 1670970490591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d625a8b2858a4aa48e80ed24d858d17a
+run_name: fearless-elk-271
+run_uuid: d625a8b2858a4aa48e80ed24d858d17a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670970477104
+status: 3
+tags: []
+user_id: julius
