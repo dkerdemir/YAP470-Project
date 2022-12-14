@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/c73a5de871b04523bdcb2a83e0729cca/artifacts
+end_time: 1671022409416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c73a5de871b04523bdcb2a83e0729cca
+run_name: luxuriant-seal-742
+run_uuid: c73a5de871b04523bdcb2a83e0729cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671022409378
+status: 4
+tags: []
+user_id: julius

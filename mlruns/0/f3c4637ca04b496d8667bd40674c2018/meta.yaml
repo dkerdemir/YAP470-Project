@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/f3c4637ca04b496d8667bd40674c2018/artifacts
+end_time: 1671040118699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3c4637ca04b496d8667bd40674c2018
+run_name: Random Forest
+run_uuid: f3c4637ca04b496d8667bd40674c2018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671040106078
+status: 3
+tags: []
+user_id: julius

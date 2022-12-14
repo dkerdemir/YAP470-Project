@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/5021164217bb41f28cc8a459dbd9855f/artifacts
+end_time: 1671034407724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5021164217bb41f28cc8a459dbd9855f
+run_name: bemused-calf-900
+run_uuid: 5021164217bb41f28cc8a459dbd9855f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671034392053
+status: 3
+tags: []
+user_id: julius

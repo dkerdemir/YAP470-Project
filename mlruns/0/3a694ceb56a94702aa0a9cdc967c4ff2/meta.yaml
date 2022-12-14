@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/3a694ceb56a94702aa0a9cdc967c4ff2/artifacts
+end_time: 1671034467033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a694ceb56a94702aa0a9cdc967c4ff2
+run_name: fearless-ram-27
+run_uuid: 3a694ceb56a94702aa0a9cdc967c4ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671034407741
+status: 3
+tags: []
+user_id: julius
