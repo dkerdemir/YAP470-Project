@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/69b104b209494ea5bb92c433e1f97674/artifacts
+end_time: 1671365858082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69b104b209494ea5bb92c433e1f97674
+run_name: Support Vector Machine
+run_uuid: 69b104b209494ea5bb92c433e1f97674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671365845510
+status: 3
+tags: []
+user_id: julius

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/c030dd42a9294e669f1355928f541628/artifacts
+end_time: 1671371232258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c030dd42a9294e669f1355928f541628
+run_name: Naive Bayes
+run_uuid: c030dd42a9294e669f1355928f541628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671371229291
+status: 3
+tags: []
+user_id: julius
