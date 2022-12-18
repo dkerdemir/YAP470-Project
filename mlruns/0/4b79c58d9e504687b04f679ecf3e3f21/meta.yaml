@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/4b79c58d9e504687b04f679ecf3e3f21/artifacts
+end_time: 1671288930383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b79c58d9e504687b04f679ecf3e3f21
+run_name: catBoost
+run_uuid: 4b79c58d9e504687b04f679ecf3e3f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671288912841
+status: 3
+tags: []
+user_id: julius

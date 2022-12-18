@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/2416aa2d7bdc4b479ffb7bf9eb176a13/artifacts
+end_time: 1671297741531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2416aa2d7bdc4b479ffb7bf9eb176a13
+run_name: XGBoost
+run_uuid: 2416aa2d7bdc4b479ffb7bf9eb176a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671297715582
+status: 4
+tags: []
+user_id: julius

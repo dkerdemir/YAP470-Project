@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/julius/Documents/GitHub/YAP470-Project/mlruns/0/46671bfb59c94993af065571d35bfe5d/artifacts
+end_time: 1671290810478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46671bfb59c94993af065571d35bfe5d
+run_name: Logistic Regression
+run_uuid: 46671bfb59c94993af065571d35bfe5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671290799638
+status: 3
+tags: []
+user_id: julius
