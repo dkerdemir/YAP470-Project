@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/57af2ba866ec438f8d1b68681c3975c8/artifacts
+end_time: 1671387849095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57af2ba866ec438f8d1b68681c3975c8
+run_name: Random Forest
+run_uuid: 57af2ba866ec438f8d1b68681c3975c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671387841480
+status: 3
+tags: []
+user_id: julius

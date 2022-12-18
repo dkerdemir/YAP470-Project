@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/5d503fbf7c594ccd80c3c35104f23edc/artifacts
+end_time: 1671389013781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d503fbf7c594ccd80c3c35104f23edc
+run_name: catBoost
+run_uuid: 5d503fbf7c594ccd80c3c35104f23edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671389013725
+status: 4
+tags: []
+user_id: julius

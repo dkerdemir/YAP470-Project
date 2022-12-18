@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/718307cb71e3413ca099c4578b2ed8d0/artifacts
+end_time: 1671378363531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 718307cb71e3413ca099c4578b2ed8d0
+run_name: Support Vector Machine
+run_uuid: 718307cb71e3413ca099c4578b2ed8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671378343147
+status: 3
+tags: []
+user_id: julius

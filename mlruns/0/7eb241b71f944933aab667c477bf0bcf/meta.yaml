@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/7eb241b71f944933aab667c477bf0bcf/artifacts
+end_time: 1671384376485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eb241b71f944933aab667c477bf0bcf
+run_name: XGBoost
+run_uuid: 7eb241b71f944933aab667c477bf0bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671384294537
+status: 3
+tags: []
+user_id: julius

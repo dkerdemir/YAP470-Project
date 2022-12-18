@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/d72c3ec104414e72a656e8ed8ff9f593/artifacts
+end_time: 1671379085458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72c3ec104414e72a656e8ed8ff9f593
+run_name: Logistic Regression
+run_uuid: d72c3ec104414e72a656e8ed8ff9f593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671379084626
+status: 4
+tags: []
+user_id: julius

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/04172cc36c2346d5a8f6f3d36f844126/artifacts
+end_time: 1671387816223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04172cc36c2346d5a8f6f3d36f844126
+run_name: Naive Bayes
+run_uuid: 04172cc36c2346d5a8f6f3d36f844126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671387812452
+status: 3
+tags: []
+user_id: julius
