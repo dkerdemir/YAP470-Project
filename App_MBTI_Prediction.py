@@ -8,11 +8,11 @@ from sklearn.feature_selection import chi2
 st.title("MBTI Type Predictor")
 
 
-with open("XGboost_pipeline.pkl", mode = "rb"):
-    model = joblib.load("XGboost_pipeline.pkl")
+model = joblib.load(open("XGboost_pipeline.pkl", "rb"))
 
 input = st.text_input('Enter your thoughts', '')
 if(input):
     st.write('PROBLEM IS WITH PREDICT')
     prediction = model.predict([input])
     st.markdown(prediction)
+st.write('Allah Yok')
