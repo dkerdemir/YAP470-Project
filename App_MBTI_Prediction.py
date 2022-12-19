@@ -7,22 +7,12 @@ from sklearn.feature_selection import chi2
 
 st.title("MBTI Type Predictor")
 
-# with open("TfidfVectorizer.pkl", mode = "rb"):
-#     vectorizer = joblib.load("TfidfVectorizer.pkl")
 
-# with open("KBest_selector.pkl", mode = "rb"):
-#     selector = joblib.load("KBest_selector.pkl")
-
-# scores = {}
-# model_file = 'SVC_classifier.pkl'
-
-# pickle_in = open(model_file, 'rb')
-# model = joblib.load(pickle_in)
-    
-with open("pipeModelSVM.pkl", mode = "rb"):
-    model = joblib.load("pipeModelSVM.pkl")
+with open("XGboost_pipeline.pkl", mode = "rb"):
+    model = joblib.load("XGboost_pipeline.pkl")
 
 input = st.text_input('Enter your thoughts', '')
 if(input):
+    st.write('PROBLEM IS WITH PREDICT')
     prediction = model.predict([input])
     st.markdown(prediction)
